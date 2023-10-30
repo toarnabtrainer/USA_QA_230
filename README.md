@@ -3,6 +3,11 @@
 **Pressman E-Book Download Link:**<br>
 https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
 
+**Before you join next first class on Selenium, please ensure the following:**<br>
+1. Make your Google Chrome as your default browser
+2. Keep your Google Chrome browser updated
+3. Download and install Anaconda on your system and check the success of the installation by running some codes
+
 **Python Download Link:**<br>
 **Anaconda Download Link:** https://www.anaconda.com/products/distribution
 
