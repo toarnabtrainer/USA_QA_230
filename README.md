@@ -40,6 +40,9 @@ https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
 https://youtube.com/playlist?list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz<br>
 https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
 
+**Mannual Test Case Report Example Template:**<br>
+![image](https://github.com/toarnabtrainer/USA_QA_230/assets/111301975/542befd8-a3c5-40c5-91e5-c2f9dfa13ba7)
+
 **MS-Office/O365 Reference Tutorial Links -**<br>
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
